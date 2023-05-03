@@ -1,1 +1,4 @@
 
+FFHQ Dataset - https://www.kaggle.com/datasets/arnaud58/flickrfaceshq-dataset-ffhq
+FFHQ LMDB dataset - https://drive.google.com/uc?id=1GiSWN1fpaLmxmgoe06nsBCINb8qTso3P
+                    https://drive.google.com/uc?id=172Vbxv7sA0kdbOQKHaXEZY8prBDvXO6C
